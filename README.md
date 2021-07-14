@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apanigrahi166&label=Profile%20views&color=0e75b6&style=flat" alt="apanigrahi166" /> </p>
 
-<p align="left"> <a href="https://github.com/prasad1004"><img src="https://github-profile-trophy.vercel.app/?username=apanigrahi166" alt="apanigrahi166" /></a> </p>
+<p align="left"> <a href="https://github.com/prasad1004"><img src="https://github-profile-trophy.vercel.app/?username=apanigrahi166" alt="prasadajmire" /></a> </p>
 
 - 🔭 I’m currently working on [Wipro ](www.wipro.com)
 
