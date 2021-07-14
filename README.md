@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **CSS,HTML,JAVASCRPT**
 
-- 👨‍💻 All of my projects are available at [llinkedin.com/in/prasad-ajmire](linkedin.com/in/prasad-ajmire)
+- 👨‍💻 All of my projects are available at [linkedin.com/in/prasad-ajmire](linkedin.com/in/prasad-ajmire)
 
 - 💬 Ask me about **json,go,perl,python**
 
