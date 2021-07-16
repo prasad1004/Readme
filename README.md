@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/prasad1004"><img src="https://github-profile-trophy.vercel.app/?username=apanigrahi166" alt="prasadajmire" /></a> </p>
 
-- 🔭 I’m currently working on [Wipro ](www.wipro.com)
+- 🔭 I’m currently working in [Wipro ](www.wipro.com)
 
 - 🌱 I’m currently learning **CSS,HTML,JAVASCRPT**
 
