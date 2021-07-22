@@ -15,13 +15,13 @@
 
 - 📫 How to reach me **prasadajmire101@gmail.com**
 
-<!-- - 📄 Know about my experiences [Akshfeed.in](Akshfeed.in) -->
+<!-- - 📄 Know about my experiences 
 
 - ⚡ Fun fact **sleep,eat,code,repeat**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com/in/prasad-ajmire/" target="blank"><img align="center" src="github.com/prasad1004/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/prasad-ajmire/" height="30" width="40" /></a>
+<a href="linkedin.com/in/prasad-ajmire" target="blank"><img align="center" src="github.com/prasad1004/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/prasad-ajmire/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
